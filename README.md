@@ -27,7 +27,7 @@ A Python-based command-line game that simulates the classic "Rock, Paper, Scisso
 
 3.  Run the script in your terminal: python rock_paper_scissors.py
 
-Follow the on-screen prompt to enter your move.
+    Follow the on-screen prompt to enter your move.
 
 ## 👤 Author
 Rutuja Wagh
