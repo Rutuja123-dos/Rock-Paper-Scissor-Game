@@ -9,7 +9,7 @@ A Python-based command-line game that simulates the classic "Rock, Paper, Scisso
 *  Intuitive Gameplay: Simple text-based input allowing for quick rounds and instant results.
 
 *  Detailed Feedback: Provides descriptive win/loss messages (e.g., "Rock Smashes Scissor") to make the outcome clear and engaging.
-
+ 
 ## 🛠️ Tech Stack
 *  Language: Python 3.13
 
