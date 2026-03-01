@@ -1,4 +1,4 @@
-## Rock-Paper-Scissor-Game
+# Rock-Paper-Scissor-Game
 
 ## 🎮 Interactive Rock-Paper-Scissors Game
 A Python-based command-line game that simulates the classic "Rock, Paper, Scissors" experience. This project explores randomized decision-making and complex conditional logic to create an interactive user-vs-computer environment.
